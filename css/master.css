@@ -1,0 +1,67 @@
+body, main, canvas, h1, h2, h3, h4, h5, img, div, footer, a  {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+  text-align: center;
+  font-size: inherit;
+  text-decoration: none;
+}
+
+
+canvas {
+  margin: 0 auto;
+  display: block;
+  border: 0.5px solid #ccc;
+}
+
+body {
+  font-family: 'Gloria Hallelujah', cursive;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/000/097/801/non_2x/keep-off-the-grass-background-free-vector.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 50px;
+  padding: 40px 0;
+}
+
+h2 {
+  font-size: 30px;
+  display: inline;
+}
+
+.game-title {
+  font-size: 50px;
+  font-family: 'Bungee Shade', cursive;
+  padding: 0;
+  margin: 0;
+}
+
+.enter-key {
+  width: 70px;
+  padding: 0 20px;
+}
+
+.h-key {
+  width: 40px;
+  padding: 0 20px;
+}
+
+footer h2 {
+  font-size: 18px;
+}
+
+footer {
+  padding: 20px 0;
+}
+
+.screen-shot {
+  width: 700px;
+  height: 600px;
+}
+
+.logo {
+  width: 30px;
+  margin: 0 5px;
+}
